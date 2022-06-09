@@ -1,3 +1,4 @@
+/* Exercicio STAGE 3 - HTML e CSS  */
 * {
   margin: 0;
   padding: 0;
@@ -30,8 +31,8 @@ body {
 }
 
 .page {
-  max-width:clamp(33rem, 30rem +20vw, 117rem );
-  padding:0 5rem;
+  max-width: clamp(33rem, 30rem +20vw, 117rem);
+  padding: 0 5rem;
   margin: 0 auto;
 }
 /* VERSÃO DESKTOP 
@@ -162,7 +163,9 @@ usamos a propriedade transform e transition */
 
 /* REGRAS DE ANIMAÇÕES
 temos as "at-rules" = usamos o @ 
-temos que colocar onde a animação será aplicada */
+temos que colocar onde a animação será aplicada 
+
+*/
 
 @keyframes topdown {
   0% {
@@ -175,7 +178,6 @@ temos que colocar onde a animação será aplicada */
     transform: translateY(0);
   }
 }
-
 @keyframes downtop {
   0% {
     opacity: 0;
