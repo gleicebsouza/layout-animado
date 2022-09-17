@@ -1,4 +1,4 @@
-# layout-animado
+# layout-animado-css-aula
 layout animado usando HTML, CSS 
 - [ ]  Aplicar o conceito de mobile-first
 - [ ]  Aplicar unidades de medidas relativas 
