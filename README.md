@@ -8,7 +8,7 @@ layout animado usando HTML, CSS
 - [ ]  Conceitos e utilização de Grid Layout
 
 ## DEPLOY ##
-https://gleicebsouza.github.io/layout-animado-css-aula/
+[https://gleicebsouza.github.io/layout-animado-css-aula/](https://layout-animado-meb7h1vow-gleicebsouza.vercel.app/)
 <br>
 https://gleicebsouza.github.io/layout-animado-css-aula/
 ## PROJETO ##
