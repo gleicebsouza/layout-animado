@@ -12,5 +12,5 @@ https://layout-animado-meb7h1vow-gleicebsouza.vercel.app/
 <br>
 http://gleice.dev/owner-layout-animado-css-aula/
 
-## PROJETO ##
+## 🔖PROJETO ##
 ![image](https://user-images.githubusercontent.com/61830297/190835972-8181dc62-9e97-4b99-853a-a1901b0e2a2f.png)
